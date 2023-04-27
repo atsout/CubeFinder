@@ -1,0 +1,36 @@
+PATHS
+.
+image_output_path            = <>
+.
+FILTERS
+gaussian_kernal              = <33>
+median_kernal                = <3>
+denoising_filter_strength    = <23>
+adaptive_threshold_blocksize = <153>
+adaptive_threshold_C         = <-1>
+canny_threshold1             = <20>
+canny_threshold2             = <200>
+canny_L2gradient             = <3>
+.
+CONTOURS
+minimum_contour_point_size   = <5>
+minimum_contour_area         = <50>
+.
+SIZING_OPTIONS
+max_aspect_ratio             = <1.5>
+max_area                     = <2000>
+min_area                     = <400>
+.
+PROGRAM_OPTIONS
+show_all_steps               = <n>
+export_to_xlsx               = <y>
+save_image                   = <y>
+run_gaussian                 = <n>
+run_median                   = <y>
+run_denoise                  = <y>
+.
+UNITS
+image_magnification          = <52K>
+.
+max_contour_point_size       = <200>
+max_contour_area             = <2000>
