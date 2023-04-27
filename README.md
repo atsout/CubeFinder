@@ -12,7 +12,7 @@ A simple program built on OpenCV that filters, finds, and sizes rectangular obje
 
 4. Run `./build/CubeFinder [path to image]`.
 
-5. When the output is show, press `Spacebar` to initiate manual data editing. Select an area with your mouse, and press `Spacebar` to clear a selection of datapoints. Press `Spacebar` again to initiate another selection, and so on. To cancel and end the program, hit `Esc`.
+5. When the output is shown, press `Spacebar` to initiate manual data editing. Select an area with your mouse, and press `Spacebar` to clear a selection of datapoints. Press `Spacebar` again to initiate another selection, and so on. To cancel and end the program, hit `Esc`.
 
 6. Rename your image and xlsx files after exporting.
 
