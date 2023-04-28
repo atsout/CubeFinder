@@ -1,6 +1,6 @@
 PATHS
 .
-image_output_path            = <>
+.
 .
 FILTERS
 gaussian_kernal              = <33>
