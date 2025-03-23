@@ -1,5 +1,5 @@
 # CubeFinder
-A simple program built on OpenCV that filters, finds, and sizes rectangular objects in noisy images. Intended for use on SEM pictures. 
+A simple program built on OpenCV that filters, finds, and sizes rectangular objects in noisy images. Intended for use on SEM images. 
 
 # Set-up and Running
 1. Requires OpenCV and libxlsxwriter to build. Find installation guides [here](https://docs.opencv.org/3.4/d7/d9f/tutorial_linux_install.html) and [here](http://libxlsxwriter.github.io/getting_started.html).
